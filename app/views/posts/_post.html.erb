@@ -12,7 +12,8 @@
   <p class="post-content">
     <%= post.content %>
   </p>
-  <small class='post-author'> <%= post.comment_count %> Comments</small>
+
+  <small class='post-author'> <%= post.comment_count %> Comment(s)</small>
   <div class='post-comments-section'>
     <% post.comments.each do |comment| %>
       <div class="post-comments">
