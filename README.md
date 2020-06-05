@@ -5,6 +5,8 @@
 
 ![screenshot](./Screenshot.png)
 
+Try out our app here: [stay_in_touch](https://thawing-thicket-54805.herokuapp.com/)
+
 ## Built With
 
 - Ruby v2.7.0
