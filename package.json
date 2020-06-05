@@ -3,5 +3,10 @@
   "private": true,
   "dependencies": {
     "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.17.2"
   }
 }
